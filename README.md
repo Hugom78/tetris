@@ -1,6 +1,10 @@
 # tetris
 Epitech Project, tetris with ncurses
 
+
+![alt text](https://raw.githubusercontent.com/alexandre10044/tetris/master/example.png)
+
+
 Subject:
 
 The goal of this project is to recreate the Tetris game in a UNIX terminal, with the Gameboy version rules.
@@ -59,7 +63,3 @@ Hide next tetrimino (def: false)$
 -D --debug
 
 Debug mode (def: false)$
-
-Example:
-
-![alt text](https://raw.githubusercontent.com/alexandre10044/tetris/master/example.png)
